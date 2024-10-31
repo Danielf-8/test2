@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello daniel
+=======
+hello daniel!
+>>>>>>> 9829fbe80933f90abc39e98489157b68c4b44daf
